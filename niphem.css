@@ -116,7 +116,7 @@ header {
 .first-section {
   background-color: #86d2fe;
   position: relative;
-  top: 80px;
+  top: 68px;
 }
 
 .first-section-flex {
@@ -306,7 +306,7 @@ header {
 
 .second-section {
   position: relative;
-  top: 70px;
+  top: 68px;
   background-color: #86d2fe;
 }
 
@@ -817,6 +817,8 @@ marquee img {
 .contact-form h3 {
   text-align: center;
   padding: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
   padding-top: 60px;
   color: #182d9a;
 }
@@ -929,6 +931,10 @@ textarea::placeholder {
     margin-bottom: 40px;
     font-size: 1.6em;
     padding: 10px;
+  }
+  .contact-form h3 {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
